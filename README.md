@@ -42,6 +42,11 @@ The notebook is created in Google Colab with all outputs visible as required.
 
 ---
 
+## ⚠️ Note: 
+Plotly interactive graph may not display on GitHub. Please view it in Google Colab for full interactivity.
+
+---
+
 ### ✍️ Submitted by  
 **Keshav Kaushik**  
 B.Sc Computer Science (IInd Year)

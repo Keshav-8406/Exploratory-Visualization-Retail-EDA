@@ -26,8 +26,14 @@ Calculated the average spending for each category and visualized it using a bar 
 ### 📈 Task 2: Scatter Plot
 Plotted income vs spending using Seaborn to check if there is any relationship between how much a customer earns and how much they spend.
 
+
 ### 🌐 Task 3: Interactive Plot
 Created an interactive scatter plot using Plotly. This allows better understanding by hovering over points and exploring category-wise data.
+
+
+## 📸 Interactive Plot Preview
+
+![Interactive Plot](Interactive_Plot.png.jpeg)
 
 ## 🔍 Key Observations
 - Some categories have higher average spending than others 📊  
